@@ -1,0 +1,14 @@
+{
+  "monero_rpc": {
+    "url": "http://127.0.0.1:18082/json_rpc",
+    "username": "monero",
+    "password": "your_secure_password_here"
+  },
+  "api": {
+    "port": 8080,
+    "key": "your_secure_api_key_here"
+  },
+  "monero": {
+    "min_confirmations": 10
+  }
+}
