@@ -34,8 +34,8 @@ This API provides a simple interface for e-commerce platforms, services, and app
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/monero-payment-api.git
-cd monero-payment-api
+git clone https://github.com/AlexanderGese/MoneroPay.git
+cd MoneroPay
 ```
 
 ### Install Dependencies
